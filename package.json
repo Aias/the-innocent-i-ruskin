@@ -1,0 +1,9 @@
+{
+  "name": "the-innocent-i",
+  "version": "0.1.0",
+  "description": "As Ruskin says / One has to strive / If one is to see / With the Innocent Eye",
+  "main": "index.js",
+  "repository": "https://github.com/Aias/the-innocent-i.git",
+  "author": "Nick Trombley <trombley.nick@gmail.com>",
+  "license": "MIT"
+}
